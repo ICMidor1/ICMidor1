@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 I am an EE student interested in digital IC design and hardware architectures for computing-in-memory accelerators.
 
