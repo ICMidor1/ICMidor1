@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ICMidor1/ICMidor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an EE student interested in digital IC design, hardware accelerators.
 
-Here are some ideas to get you started:
+## 📢 News
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎉 **[Jul. 2026]** One paper has been accepted to **CODES/ISSS 2026**!
+
+## 🔭 Research Interests
+
+- Digital IC Design
+- AI and Cryptographic Accelerators
+- Computing-in-Memory
+- Hardware security
+- Video Codec Hardware
