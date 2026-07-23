@@ -11,4 +11,5 @@ I am an EE student interested in digital IC design and hardware architectures fo
 
 ## 🔭 Research Interests
 - Computing-in-Memory
+- Hardware Security
 - Video Codec Hardware
